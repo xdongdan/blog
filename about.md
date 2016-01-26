@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![photo](/Users/dongdan/blog/Resource/about/1.jpg)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Hello 我是冬丹 iOS程序媛一枚 不会用标点符号星人 坐标魔都
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[我的微博][id]
+
+[id]: http://www.weibo.com/2503289355/profile?rightmod=1&wvr=6&mod=personinfo
+
+
+[我的github][id]
+
+[id]: https://github.com/xdongdan
+
+
+[我的邮箱]<dongdan@xiaodongdan.com>
+
+
