@@ -8,16 +8,16 @@ permalink: /about/
 
 Hello 我是冬丹 iOS程序媛一枚 不会用标点符号星人 坐标魔都
 
-[我的微博][id]
+[戳这里来微博互粉][id]
 
 [id]: http://www.weibo.com/2503289355/profile?rightmod=1&wvr=6&mod=personinfo
 
-
-[我的github][id]
+[戳这里来github找茬][id]
 
 [id]: https://github.com/xdongdan
 
+[戳这里联系我][id]
 
-[我的邮箱]<dongdan@xiaodongdan.com>
+[id]: dongdan@xiaodongdan.com
 
 
