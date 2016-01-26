@@ -4,20 +4,20 @@ title: About
 permalink: /about/
 ---
 
-![photo](/Users/dongdan/blog/Resource/about/1.jpg)
+![photo](/Resource/about/1.jpg)
 
 Hello 我是冬丹 iOS程序媛一枚 不会用标点符号星人 坐标魔都
 
-[戳这里来微博互粉][id]
+[戳这里来微博互粉][sina]
 
-[id]: http://www.weibo.com/2503289355/profile?rightmod=1&wvr=6&mod=personinfo
+[sina]: http://www.weibo.com/2503289355/profile?rightmod=1&wvr=6&mod=personinfo
 
-[戳这里来github找茬][id]
+[戳这里来github找茬][github]
 
-[id]: https://github.com/xdongdan
+[github]: https://github.com/xdongdan
 
-[戳这里联系我][id]
+[戳这里联系我][email]
 
-[id]: dongdan@xiaodongdan.com
+[email]: dongdan@xiaodongdan.com
 
 
