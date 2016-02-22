@@ -16,8 +16,8 @@ Hello 我是冬丹 iOS程序媛一枚 不会用标点符号星人 坐标魔都
 
 [github]: https://github.com/xdongdan
 
-[戳这里联系我][email]
+戳这里联系我 <dongdan@xiaodongdan.com>
 
-[email]: dongdan@xiaodongdan.com
+
 
 
