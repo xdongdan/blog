@@ -6,7 +6,7 @@ permalink: /about/
 
 ![photo](/Resource/about/1.jpg)
 
-Hello 我是冬丹 iOS程序媛一枚 不会用标点符号星人 坐标魔都
+Hello 我是冬丹 iOS程序媛一枚 坐标魔都
 
 [戳这里来微博互粉][sina]
 
