@@ -3,9 +3,11 @@ layout:	post
 title: Debug、AdHoc、AppStore版本同时构建
 date: 2016-02-22 13:44:33 +0800
 ---
+
 ###介绍
 
 去年临过年的时候测试老是抱怨手机上只能安装debug、adhoc、release某一个版本，每次安装跟设备上版本不一样的包的时候就会把原来的包覆盖掉。趁着今天无聊看了下不同版本的构建，将整个过程记录了下来，希望能帮助到和我一样整天被测试抱怨的小伙伴。
+
 
 ###1、创建不同的App ID
 
@@ -16,6 +18,7 @@ date: 2016-02-22 13:44:33 +0800
 	com.houpix.test.adhoc 	
 	
 App ID创建好以后就可以创建对应的描述文件了，分别创建AppStore、AdHoc、development的描述文件。
+
 
 ###2、项目配置
 
@@ -43,11 +46,14 @@ BUNDLE_ID_SUFFIX必须与你在创建的App ID对应，我们在Ad Hoc那一栏�
 
 ![photo](/Resource/2016-02-22/4.png)
 
+
 ###3、Schemes
 
 我们的应用一开始有一个默认的scheme，Run、Test、Analyze是Debug，Archive是Release，我们需要再创建一个AdHoc的scheme，Run、Test、Archive都使用AdHoc配置。这样的话，我们就可以在Xcode里选择不同的scheme来构建应用了。分别运行一下，完美！(ps:这里我有三个scheme，所以运行出来是三个应用。)
 
 ![photo](/Resource/2016-02-22/5.png)
+
+
 
 
 ###Reference
