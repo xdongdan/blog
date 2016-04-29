@@ -9,7 +9,7 @@
 title: 冬丹
 email: dongdan@xiaodongdan.com
 description: > # this means to ignore newlines until "baseurl:"
-  混吃等死的iOS dev
+  stay hungry, stay foolish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xiaodongdan.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -17,3 +17,6 @@ github_username:  xdongdan
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+	input: GFM
