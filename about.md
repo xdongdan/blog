@@ -6,7 +6,8 @@ permalink: /about/
 
 ![photo](/Resource/about/1.jpg)
 
-Hello 我是冬丹 iOS程序媛一枚 坐标魔都(上海)
+Hello 我是冬丹 iOS程序媛一枚 坐标上海 
+目前离职 找萝卜坑中
 
 [新浪微博][sina]
 
