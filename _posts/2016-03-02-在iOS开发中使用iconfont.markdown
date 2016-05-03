@@ -8,11 +8,12 @@ date: 2016-03-02 14:44:33 +0800
 在开发寓悦app的时候，老大提出使用iconfont来替代传统的切图，于是乎开始了get新技能之旅。
 
 
-#瓦特？iconfont是什么鬼
+# 瓦特？iconfont是什么鬼
 
-我所理解的iconfont，就是将.svg格式的图片打包成.ttf格式的字体，用来展示图片或者特殊字符等。理解有限，需要详细了解svg以及iconfont的小伙伴们请自行戳文末链接。
+我所理解的*iconfont*，就是将.svg格式的图片打包成.ttf格式的字体，用来展示图片或者特殊字符等。理解有限，需要详细了解svg以及iconfont的小伙伴们请自行戳文末链接。
 
-#制作iconfont
+# 制作iconfont
+
 扯了这么多，终于要开始了我们的iconfont之旅了，激动的心颤抖的手啊
 
 [iconmoon][iconmoon]、[Fontello][fontello]、[阿里巴巴矢量图标库][iconfont.cn]等网站都提供了生成iconfont的服务，本文以阿里巴巴矢量图标库（以下简称图标库）作为生成工具。
@@ -26,15 +27,15 @@ date: 2016-03-02 14:44:33 +0800
 
 ![photo](/Resource/2016-03-02/1.png)
 
-#使用iconfont
+# 使用iconfont
 
-##1、添加iconfont字体
+## 1、添加iconfont字体
 
 将下载好的字体（.ttf）添加到工程中，打开Info.plist文件，添加新属性`Fonts provided by application`，增加字体名`iconfont.ttf`。
 
 ![photo](/Resource/2016-03-02/2.jpg)
 
-##2、使用iconfont字体
+## 2、使用iconfont字体
 
 奉上iconfont官网使用说明
 
@@ -60,8 +61,7 @@ iOS生成脚本
 
  
 
-#Reference
-关于svg: <www.iosxxx.com/blog/2015/10/07/ioszhong-de-svgyu-iconfontxiang-jie/>
+# Reference
 
 关于iconfont:<https://www.zybuluo.com/cherishpeace/note/2080>
 
