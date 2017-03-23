@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+if [ $1x = 'x' ];then
+	echo "命令格式: $(tput setaf 1) ./newpost you-post-name $(tput sgr0)"
+	exit;
+fi
+
+fn=_posts/`date "+%Y-%m-%d"`-$1.markdown;
+printf "%s\nlayout: post\ntitle: \"title\"\ndate: %s +800\ncategories: \nby: gf\ndescription: des\n%s\n\n" "---" "`date "+%Y-%m-%d %H:%M:%S"`" "---" > $fn
+subl $fn

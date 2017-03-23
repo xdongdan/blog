@@ -18,7 +18,7 @@ task :new do
 	@slug = "#{@url}"
 	@slug = @slug.downcase.strip.gsub(' ', '-')
 	@date = Time.now.strftime("%F")
-	@post_name = "_posts/#{@date}-#{@slug}.md"
+	@post_name = "_posts/#{@date}-#{@name}.md"
 	if File.exist?(@post_name)
 			abort("文件名已经存在！创建失败")
 	end

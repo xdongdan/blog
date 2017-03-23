@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+git add . 
+git commit -m "edit post" 
+git push -v origin gh-pages

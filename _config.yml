@@ -17,5 +17,11 @@ github_username:  xdongdan
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
+highlighted: pygments
+permalink: /:title
+
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "blog/page:num"
+
+
